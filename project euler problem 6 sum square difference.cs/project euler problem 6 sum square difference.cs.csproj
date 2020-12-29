@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>project_euler_problem_6_sum_square_difference.cs</RootNamespace>
+  </PropertyGroup>
+
+</Project>
